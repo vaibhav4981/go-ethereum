@@ -21,8 +21,8 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/metrics"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/metrics"
 )
 
 // The fields below define the low level database schema prefixing.

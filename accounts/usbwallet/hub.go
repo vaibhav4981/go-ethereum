@@ -23,10 +23,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/accounts"
-	"github.com/TechPay-io/go-ethereum/event"
-	"github.com/TechPay-io/go-ethereum/log"
 	"github.com/karalabe/usb"
+	"github.com/vaibhav4981/go-ethereum/accounts"
+	"github.com/vaibhav4981/go-ethereum/event"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // LedgerScheme is the protocol scheme prefixing account and wallet URLs.

@@ -23,14 +23,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum"
-	"github.com/TechPay-io/go-ethereum/accounts/abi"
-	"github.com/TechPay-io/go-ethereum/accounts/abi/bind"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/common/hexutil"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi/bind"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common/hexutil"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 )
 
 type mockCaller struct {

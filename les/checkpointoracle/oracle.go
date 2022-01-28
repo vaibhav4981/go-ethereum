@@ -25,12 +25,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/accounts/abi/bind"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/contracts/checkpointoracle"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi/bind"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/contracts/checkpointoracle"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 // CheckpointOracle is responsible for offering the latest stable checkpoint

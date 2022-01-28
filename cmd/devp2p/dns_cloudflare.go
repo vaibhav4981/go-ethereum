@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/p2p/dnsdisc"
 	"github.com/cloudflare/cloudflare-go"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/p2p/dnsdisc"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 )
 
 func TestULCAnnounceThresholdLes2(t *testing.T) { testULCAnnounceThreshold(t, 2) }

@@ -19,8 +19,8 @@ package runtime_test
 import (
 	"fmt"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/core/vm/runtime"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/core/vm/runtime"
 )
 
 func ExampleExecute() {

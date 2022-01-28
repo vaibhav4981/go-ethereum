@@ -20,7 +20,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 )
 
 const (

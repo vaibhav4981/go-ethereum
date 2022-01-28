@@ -27,17 +27,17 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/consensus"
-	"github.com/TechPay-io/go-ethereum/consensus/ethash"
-	"github.com/TechPay-io/go-ethereum/core/rawdb"
-	"github.com/TechPay-io/go-ethereum/core/state"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/core/vm"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/ethdb"
-	"github.com/TechPay-io/go-ethereum/params"
-	"github.com/TechPay-io/go-ethereum/trie"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/consensus"
+	"github.com/vaibhav4981/go-ethereum/consensus/ethash"
+	"github.com/vaibhav4981/go-ethereum/core/rawdb"
+	"github.com/vaibhav4981/go-ethereum/core/state"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/core/vm"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/ethdb"
+	"github.com/vaibhav4981/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/trie"
 )
 
 // So we can deterministically seed different blockchains
@@ -1429,7 +1429,7 @@ func TestEIP161AccountRemoval(t *testing.T) {
 // tests that under weird reorg conditions the blockchain and its internal header-
 // chain return the same latest block/header.
 //
-// https://github.com/TechPay-io/go-ethereum/pull/15941
+// https://github.com/vaibhav4981/go-ethereum/pull/15941
 func TestBlockchainHeaderchainReorgConsistency(t *testing.T) {
 	// Generate a canonical chain to act as the main dataset
 	engine := ethash.NewFaker()
@@ -1692,8 +1692,8 @@ func TestIncompleteAncientReceiptChainInsertion(t *testing.T) {
 // overtake the 'canon' chain until after it's passed canon by about 200 blocks.
 //
 // Details at:
-//  - https://github.com/TechPay-io/go-ethereum/issues/18977
-//  - https://github.com/TechPay-io/go-ethereum/pull/18988
+//  - https://github.com/vaibhav4981/go-ethereum/issues/18977
+//  - https://github.com/vaibhav4981/go-ethereum/pull/18988
 func TestLowDiffLongChain(t *testing.T) {
 	// Generate a canonical chain to act as the main dataset
 	engine := ethash.NewFaker()

@@ -24,15 +24,15 @@ import (
 	"sort"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/core/rawdb"
-	"github.com/TechPay-io/go-ethereum/core/state/snapshot"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/metrics"
-	"github.com/TechPay-io/go-ethereum/rlp"
-	"github.com/TechPay-io/go-ethereum/trie"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/core/rawdb"
+	"github.com/vaibhav4981/go-ethereum/core/state/snapshot"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/metrics"
+	"github.com/vaibhav4981/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/trie"
 )
 
 type revision struct {
@@ -681,7 +681,7 @@ func (s *StateDB) Copy() *StateDB {
 	}
 	// Copy the dirty states, logs, and preimages
 	for addr := range s.journal.dirties {
-		// As documented [here](https://github.com/TechPay-io/go-ethereum/pull/16485#issuecomment-380438527),
+		// As documented [here](https://github.com/vaibhav4981/go-ethereum/pull/16485#issuecomment-380438527),
 		// and in the Finalise-method, there is a case where an object is in the journal but not
 		// in the stateObjects: OOG after touch on ripeMD prior to Byzantium. Thus, we need to check for
 		// nil

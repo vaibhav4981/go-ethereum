@@ -17,7 +17,7 @@
 // Package bind generates Ethereum contract Go bindings.
 //
 // Detailed usage document and tutorial available on the go-ethereum Wiki page:
-// https://github.com/TechPay-io/go-ethereum/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts
+// https://github.com/vaibhav4981/go-ethereum/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts
 package bind
 
 import (
@@ -30,8 +30,8 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/TechPay-io/go-ethereum/accounts/abi"
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // Lang is a target programming language selector to generate bindings for.

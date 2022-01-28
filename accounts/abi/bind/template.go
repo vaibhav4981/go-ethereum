@@ -16,7 +16,7 @@
 
 package bind
 
-import "github.com/TechPay-io/go-ethereum/accounts/abi"
+import "github.com/vaibhav4981/go-ethereum/accounts/abi"
 
 // tmplData is the data structure required to fill the binding template.
 type tmplData struct {
@@ -91,12 +91,12 @@ import (
 	"math/big"
 	"strings"
 
-	ethereum "github.com/TechPay-io/go-ethereum"
-	"github.com/TechPay-io/go-ethereum/accounts/abi"
-	"github.com/TechPay-io/go-ethereum/accounts/abi/bind"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/event"
+	ethereum "github.com/vaibhav4981/go-ethereum"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi/bind"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/event"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

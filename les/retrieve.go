@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/light"
+	"github.com/vaibhav4981/go-ethereum/light"
 )
 
 var (

@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/TechPay-io/go-ethereum/accounts/keystore"
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/accounts/keystore"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // deployFaucet queries the user for various input on deploying a faucet, after

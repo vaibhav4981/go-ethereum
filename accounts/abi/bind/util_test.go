@@ -23,12 +23,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/accounts/abi/bind"
-	"github.com/TechPay-io/go-ethereum/accounts/abi/bind/backends"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/core"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi/bind"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi/bind/backends"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/core"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/crypto"
 )
 
 var testKey, _ = crypto.HexToECDSA("b71c71a67e1177ad4e901695e1b4b9ee17ae16c6668d313eac2f96dbcda3f291")

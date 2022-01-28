@@ -20,8 +20,8 @@
 package node
 
 import (
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/rpc"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 // NoopLifecycle is a trivial implementation of the Service interface.

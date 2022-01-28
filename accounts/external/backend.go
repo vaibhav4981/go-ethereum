@@ -21,15 +21,15 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum"
-	"github.com/TechPay-io/go-ethereum/accounts"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/common/hexutil"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/event"
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/rpc"
-	"github.com/TechPay-io/go-ethereum/signer/core"
+	"github.com/vaibhav4981/go-ethereum"
+	"github.com/vaibhav4981/go-ethereum/accounts"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common/hexutil"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/event"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/rpc"
+	"github.com/vaibhav4981/go-ethereum/signer/core"
 )
 
 type ExternalBackend struct {

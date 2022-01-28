@@ -24,14 +24,14 @@ import (
 	"net"
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/event"
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/node"
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/simulations/pipes"
-	"github.com/TechPay-io/go-ethereum/rpc"
 	"github.com/gorilla/websocket"
+	"github.com/vaibhav4981/go-ethereum/event"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/node"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/simulations/pipes"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 // SimAdapter is a NodeAdapter which creates in-memory simulation nodes and

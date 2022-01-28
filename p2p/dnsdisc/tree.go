@@ -26,10 +26,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/enr"
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/enr"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

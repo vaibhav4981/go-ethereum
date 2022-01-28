@@ -22,8 +22,8 @@ package eth
 import (
 	"crypto/rand"
 
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 )
 
 // testPeer is a simulated peer to allow testing direct network calls.

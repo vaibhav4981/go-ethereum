@@ -23,9 +23,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/TechPay-io/go-ethereum/cmd/utils"
-	"github.com/TechPay-io/go-ethereum/consensus/ethash"
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/cmd/utils"
+	"github.com/vaibhav4981/go-ethereum/consensus/ethash"
+	"github.com/vaibhav4981/go-ethereum/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

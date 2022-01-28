@@ -22,8 +22,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/TechPay-io/go-ethereum/common/math"
-	"github.com/TechPay-io/go-ethereum/core/vm"
+	"github.com/vaibhav4981/go-ethereum/common/math"
+	"github.com/vaibhav4981/go-ethereum/core/vm"
 )
 
 // Compiler contains information about the parsed source

@@ -22,8 +22,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/accounts/abi"
-	"github.com/TechPay-io/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi"
+	"github.com/vaibhav4981/go-ethereum/common"
 )
 
 // Tests that all the selectors contained in the 4byte database are valid.

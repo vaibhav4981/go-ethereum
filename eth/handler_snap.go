@@ -17,9 +17,9 @@
 package eth
 
 import (
-	"github.com/TechPay-io/go-ethereum/core"
-	"github.com/TechPay-io/go-ethereum/eth/protocols/snap"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/core"
+	"github.com/vaibhav4981/go-ethereum/eth/protocols/snap"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 )
 
 // snapHandler implements the snap.Backend interface to handle the various network

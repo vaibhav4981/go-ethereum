@@ -28,14 +28,14 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/TechPay-io/go-ethereum/console/prompt"
-	"github.com/TechPay-io/go-ethereum/internal/jsre"
-	"github.com/TechPay-io/go-ethereum/internal/jsre/deps"
-	"github.com/TechPay-io/go-ethereum/internal/web3ext"
-	"github.com/TechPay-io/go-ethereum/rpc"
 	"github.com/dop251/goja"
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
+	"github.com/vaibhav4981/go-ethereum/console/prompt"
+	"github.com/vaibhav4981/go-ethereum/internal/jsre"
+	"github.com/vaibhav4981/go-ethereum/internal/jsre/deps"
+	"github.com/vaibhav4981/go-ethereum/internal/web3ext"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 var (

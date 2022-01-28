@@ -21,9 +21,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/TechPay-io/go-ethereum/core/state"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/core/state"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 var (

@@ -38,11 +38,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/TechPay-io/go-ethereum/accounts"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/common/math"
-	"github.com/TechPay-io/go-ethereum/crypto"
 	"github.com/google/uuid"
+	"github.com/vaibhav4981/go-ethereum/accounts"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common/math"
+	"github.com/vaibhav4981/go-ethereum/crypto"
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/crypto/scrypt"
 )
@@ -121,7 +121,7 @@ func (ks keyStorePassphrase) StoreKey(filename string, key *Key, auth string) er
 				"This indicates that the keystore is corrupted. \n" +
 				"The corrupted file is stored at \n%v\n" +
 				"Please file a ticket at:\n\n" +
-				"https://github.com/TechPay-io/go-ethereum/issues." +
+				"https://github.com/vaibhav4981/go-ethereum/issues." +
 				"The error was : %s"
 			//lint:ignore ST1005 This is a message for the user
 			return fmt.Errorf(msg, tmpName, err)

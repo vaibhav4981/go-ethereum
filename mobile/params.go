@@ -21,9 +21,9 @@ package geth
 import (
 	"encoding/json"
 
-	"github.com/TechPay-io/go-ethereum/core"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/core"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 // MainnetGenesis returns the JSON spec to use for the main Ethereum network. It

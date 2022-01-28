@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/TechPay-io/go-ethereum/node"
+	"github.com/vaibhav4981/go-ethereum/node"
 )
 
 // SampleLifecycle is a trivial network service that can be attached to a node for

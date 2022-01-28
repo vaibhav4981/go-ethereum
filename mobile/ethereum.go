@@ -21,8 +21,8 @@ package geth
 import (
 	"errors"
 
-	"github.com/TechPay-io/go-ethereum"
-	"github.com/TechPay-io/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum"
+	"github.com/vaibhav4981/go-ethereum/common"
 )
 
 // Subscription represents an event subscription where events are

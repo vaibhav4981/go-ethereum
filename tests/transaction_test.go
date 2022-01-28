@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 func TestTransaction(t *testing.T) {

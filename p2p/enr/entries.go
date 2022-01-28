@@ -21,7 +21,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 )
 
 // Entry is implemented by known node record entry types.

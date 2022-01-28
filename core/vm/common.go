@@ -17,9 +17,9 @@
 package vm
 
 import (
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/common/math"
 	"github.com/holiman/uint256"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common/math"
 )
 
 // calcMemSize64 calculates the required memory size, and returns

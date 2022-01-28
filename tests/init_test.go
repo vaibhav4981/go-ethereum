@@ -31,7 +31,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 // Command line flags to configure the interpreters.

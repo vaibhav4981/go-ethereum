@@ -21,9 +21,9 @@ import (
 	"math"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/params"
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 )
 
 // TestCreation tests that different genesis and fork rule combinations result in

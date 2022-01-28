@@ -24,8 +24,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/core"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/vaibhav4981/go-ethereum/core"
 )
 
 // Tests the go-ethereum to Aleth chainspec conversion for the Stureby testnet.

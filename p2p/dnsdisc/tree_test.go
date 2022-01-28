@@ -20,9 +20,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/common/hexutil"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/vaibhav4981/go-ethereum/common/hexutil"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 )
 
 func TestParseRoot(t *testing.T) {

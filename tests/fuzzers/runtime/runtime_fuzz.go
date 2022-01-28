@@ -17,7 +17,7 @@
 package runtime
 
 import (
-	"github.com/TechPay-io/go-ethereum/core/vm/runtime"
+	"github.com/vaibhav4981/go-ethereum/core/vm/runtime"
 )
 
 // Fuzz is the basic entry point for the go-fuzz tool

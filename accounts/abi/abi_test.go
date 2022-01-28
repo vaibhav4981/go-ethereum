@@ -26,9 +26,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/common/math"
-	"github.com/TechPay-io/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common/math"
+	"github.com/vaibhav4981/go-ethereum/crypto"
 )
 
 const jsondata = `

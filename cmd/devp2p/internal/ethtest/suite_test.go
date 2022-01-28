@@ -21,11 +21,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/eth"
-	"github.com/TechPay-io/go-ethereum/eth/ethconfig"
-	"github.com/TechPay-io/go-ethereum/internal/utesting"
-	"github.com/TechPay-io/go-ethereum/node"
-	"github.com/TechPay-io/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/eth"
+	"github.com/vaibhav4981/go-ethereum/eth/ethconfig"
+	"github.com/vaibhav4981/go-ethereum/internal/utesting"
+	"github.com/vaibhav4981/go-ethereum/node"
+	"github.com/vaibhav4981/go-ethereum/p2p"
 )
 
 var (

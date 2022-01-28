@@ -24,10 +24,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/common/hexutil"
-	"github.com/TechPay-io/go-ethereum/console/prompt"
-	"github.com/TechPay-io/go-ethereum/internal/ethapi"
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/common/hexutil"
+	"github.com/vaibhav4981/go-ethereum/console/prompt"
+	"github.com/vaibhav4981/go-ethereum/internal/ethapi"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 type CommandlineUI struct {

@@ -24,8 +24,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

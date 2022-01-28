@@ -24,9 +24,9 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/internal/utesting"
-	"github.com/TechPay-io/go-ethereum/p2p/discover/v4wire"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/internal/utesting"
+	"github.com/vaibhav4981/go-ethereum/p2p/discover/v4wire"
 )
 
 const (

@@ -19,8 +19,8 @@ package eth
 import (
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common/bitutil"
-	"github.com/TechPay-io/go-ethereum/core/rawdb"
+	"github.com/vaibhav4981/go-ethereum/common/bitutil"
+	"github.com/vaibhav4981/go-ethereum/core/rawdb"
 )
 
 const (

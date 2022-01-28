@@ -19,8 +19,8 @@ package client
 import (
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/nodestate"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/nodestate"
 )
 
 // QueueIterator returns nodes from the specified selectable set in the same order as

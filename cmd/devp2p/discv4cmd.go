@@ -22,12 +22,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/cmd/devp2p/internal/v4test"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/p2p/discover"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/cmd/devp2p/internal/v4test"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/p2p/discover"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -58,10 +58,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/crypto/signify"
-	"github.com/TechPay-io/go-ethereum/internal/build"
-	"github.com/TechPay-io/go-ethereum/params"
 	"github.com/cespare/cp"
+	"github.com/vaibhav4981/go-ethereum/crypto/signify"
+	"github.com/vaibhav4981/go-ethereum/internal/build"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 var (
@@ -832,7 +832,7 @@ func doAndroidArchive(cmdline []string) {
 	build.MustRun(tc.Go("mod", "download"))
 
 	// Build the Android archive and Maven resources
-	build.MustRun(gomobileTool("bind", "-ldflags", "-s -w", "--target", "android", "--javapkg", "org.ethereum", "-v", "github.com/TechPay-io/go-ethereum/mobile"))
+	build.MustRun(gomobileTool("bind", "-ldflags", "-s -w", "--target", "android", "--javapkg", "org.ethereum", "-v", "github.com/vaibhav4981/go-ethereum/mobile"))
 
 	if *local {
 		// If we're building locally, copy bundle to build dir and skip Maven
@@ -961,7 +961,7 @@ func doXCodeFramework(cmdline []string) {
 	build.MustRun(tc.Go("mod", "download"))
 
 	// Build the iOS XCode framework
-	bind := gomobileTool("bind", "-ldflags", "-s -w", "--target", "ios", "-v", "github.com/TechPay-io/go-ethereum/mobile")
+	bind := gomobileTool("bind", "-ldflags", "-s -w", "--target", "ios", "-v", "github.com/vaibhav4981/go-ethereum/mobile")
 
 	if *local {
 		// If we're building locally, use the build folder and stop afterwards

@@ -23,9 +23,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/core"
-	"github.com/TechPay-io/go-ethereum/log"
 	"github.com/olekukonko/tablewriter"
+	"github.com/vaibhav4981/go-ethereum/core"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // networkStats verifies the status of network components and generates a protip

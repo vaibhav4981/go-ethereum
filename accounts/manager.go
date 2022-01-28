@@ -21,8 +21,8 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/event"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/event"
 )
 
 // Config contains the settings of the global account manager.

@@ -22,10 +22,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/internal/utesting"
-	"github.com/TechPay-io/go-ethereum/p2p/discover/v5wire"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/netutil"
+	"github.com/vaibhav4981/go-ethereum/internal/utesting"
+	"github.com/vaibhav4981/go-ethereum/p2p/discover/v5wire"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/netutil"
 )
 
 // Suite is the discv5 test suite.

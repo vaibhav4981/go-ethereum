@@ -17,8 +17,8 @@
 package runtime
 
 import (
-	"github.com/TechPay-io/go-ethereum/core"
-	"github.com/TechPay-io/go-ethereum/core/vm"
+	"github.com/vaibhav4981/go-ethereum/core"
+	"github.com/vaibhav4981/go-ethereum/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

@@ -17,10 +17,10 @@
 package vm
 
 import (
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/params"
 	"github.com/holiman/uint256"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/params"
 	"golang.org/x/crypto/sha3"
 )
 

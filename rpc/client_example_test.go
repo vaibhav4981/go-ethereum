@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common/hexutil"
-	"github.com/TechPay-io/go-ethereum/rpc"
+	"github.com/vaibhav4981/go-ethereum/common/hexutil"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 // In this example, our client wishes to track the latest 'block number'

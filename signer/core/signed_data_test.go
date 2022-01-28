@@ -26,12 +26,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/accounts/keystore"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/common/hexutil"
-	"github.com/TechPay-io/go-ethereum/common/math"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/signer/core"
+	"github.com/vaibhav4981/go-ethereum/accounts/keystore"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common/hexutil"
+	"github.com/vaibhav4981/go-ethereum/common/math"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/signer/core"
 )
 
 var typesStandard = core.Types{

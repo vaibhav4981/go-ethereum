@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // deployWallet creates a new web wallet based on some user input.

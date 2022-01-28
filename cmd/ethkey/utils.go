@@ -22,8 +22,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/TechPay-io/go-ethereum/cmd/utils"
-	"github.com/TechPay-io/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/cmd/utils"
+	"github.com/vaibhav4981/go-ethereum/crypto"
 	"gopkg.in/urfave/cli.v1"
 )
 

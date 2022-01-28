@@ -19,10 +19,10 @@ package keystore
 import (
 	"math/big"
 
-	"github.com/TechPay-io/go-ethereum"
-	"github.com/TechPay-io/go-ethereum/accounts"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum"
+	"github.com/vaibhav4981/go-ethereum/accounts"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/crypto"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

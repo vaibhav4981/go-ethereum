@@ -19,10 +19,10 @@ package simulations
 import (
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/enr"
-	"github.com/TechPay-io/go-ethereum/rpc"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/enr"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 // NoopService is the service that does not do anything

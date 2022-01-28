@@ -21,7 +21,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/TechPay-io/go-ethereum/eth/tracers/internal/tracers"
+	"github.com/vaibhav4981/go-ethereum/eth/tracers/internal/tracers"
 )
 
 // all contains all the built in JavaScript tracers by name.

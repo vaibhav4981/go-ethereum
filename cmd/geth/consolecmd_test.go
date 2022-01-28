@@ -27,7 +27,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 const (

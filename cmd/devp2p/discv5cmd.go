@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/cmd/devp2p/internal/v5test"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/p2p/discover"
+	"github.com/vaibhav4981/go-ethereum/cmd/devp2p/internal/v5test"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/p2p/discover"
 	"gopkg.in/urfave/cli.v1"
 )
 

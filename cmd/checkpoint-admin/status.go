@@ -19,8 +19,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/TechPay-io/go-ethereum/cmd/utils"
-	"github.com/TechPay-io/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/cmd/utils"
+	"github.com/vaibhav4981/go-ethereum/common"
 	"gopkg.in/urfave/cli.v1"
 )
 

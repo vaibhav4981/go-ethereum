@@ -19,9 +19,9 @@ package client
 import (
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/les/utils"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/nodestate"
+	"github.com/vaibhav4981/go-ethereum/les/utils"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/nodestate"
 )
 
 // WrsIterator returns nodes from the specified selectable set with a weighted random

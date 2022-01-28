@@ -29,13 +29,13 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/event"
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/simulations/adapters"
-	"github.com/TechPay-io/go-ethereum/rpc"
 	"github.com/gorilla/websocket"
 	"github.com/julienschmidt/httprouter"
+	"github.com/vaibhav4981/go-ethereum/event"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/simulations/adapters"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 // DefaultClient is the default simulation API client which expects the API

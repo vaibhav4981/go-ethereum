@@ -20,10 +20,10 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/TechPay-io/go-ethereum/common/mclock"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/enr"
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/common/mclock"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/enr"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 )
 
 // Packet is implemented by all message types.

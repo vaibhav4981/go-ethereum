@@ -25,10 +25,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/core/forkid"
-	"github.com/TechPay-io/go-ethereum/p2p/enr"
-	"github.com/TechPay-io/go-ethereum/params"
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/core/forkid"
+	"github.com/vaibhav4981/go-ethereum/p2p/enr"
+	"github.com/vaibhav4981/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 	"gopkg.in/urfave/cli.v1"
 )
 

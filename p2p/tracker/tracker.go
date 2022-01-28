@@ -22,8 +22,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/metrics"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/metrics"
 )
 
 const (

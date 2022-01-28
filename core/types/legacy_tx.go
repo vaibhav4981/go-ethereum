@@ -19,7 +19,7 @@ package types
 import (
 	"math/big"
 
-	"github.com/TechPay-io/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common"
 )
 
 // LegacyTx is the transaction data of regular Ethereum transactions.

@@ -27,11 +27,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/crypto/ecies"
-	"github.com/TechPay-io/go-ethereum/rlp"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/stretchr/testify/assert"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/crypto/ecies"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 )
 
 type message struct {

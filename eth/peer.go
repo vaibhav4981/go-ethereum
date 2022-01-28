@@ -21,8 +21,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/eth/protocols/eth"
-	"github.com/TechPay-io/go-ethereum/eth/protocols/snap"
+	"github.com/vaibhav4981/go-ethereum/eth/protocols/eth"
+	"github.com/vaibhav4981/go-ethereum/eth/protocols/snap"
 )
 
 // ethPeerInfo represents a short summary of the `eth` sub-protocol metadata known

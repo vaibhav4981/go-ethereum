@@ -19,9 +19,9 @@ package main
 import (
 	"os"
 
-	"github.com/TechPay-io/go-ethereum/cmd/devp2p/internal/v4test"
-	"github.com/TechPay-io/go-ethereum/internal/utesting"
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/cmd/devp2p/internal/v4test"
+	"github.com/vaibhav4981/go-ethereum/internal/utesting"
+	"github.com/vaibhav4981/go-ethereum/log"
 	"gopkg.in/urfave/cli.v1"
 )
 

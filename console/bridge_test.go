@@ -19,8 +19,8 @@ package console
 import (
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/internal/jsre"
 	"github.com/dop251/goja"
+	"github.com/vaibhav4981/go-ethereum/internal/jsre"
 )
 
 // TestUndefinedAsParam ensures that personal functions can receive

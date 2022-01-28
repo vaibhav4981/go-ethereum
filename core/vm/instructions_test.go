@@ -23,10 +23,10 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/params"
 	"github.com/holiman/uint256"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 type TwoOperandTestcase struct {

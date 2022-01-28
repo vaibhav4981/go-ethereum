@@ -24,17 +24,17 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/TechPay-io/go-ethereum/core"
-	"github.com/TechPay-io/go-ethereum/eth/downloader"
-	"github.com/TechPay-io/go-ethereum/eth/ethconfig"
-	"github.com/TechPay-io/go-ethereum/ethclient"
-	"github.com/TechPay-io/go-ethereum/ethstats"
-	"github.com/TechPay-io/go-ethereum/internal/debug"
-	"github.com/TechPay-io/go-ethereum/les"
-	"github.com/TechPay-io/go-ethereum/node"
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/p2p/nat"
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/core"
+	"github.com/vaibhav4981/go-ethereum/eth/downloader"
+	"github.com/vaibhav4981/go-ethereum/eth/ethconfig"
+	"github.com/vaibhav4981/go-ethereum/ethclient"
+	"github.com/vaibhav4981/go-ethereum/ethstats"
+	"github.com/vaibhav4981/go-ethereum/internal/debug"
+	"github.com/vaibhav4981/go-ethereum/les"
+	"github.com/vaibhav4981/go-ethereum/node"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/p2p/nat"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 // NodeConfig represents the collection of configuration values to fine tune the Geth

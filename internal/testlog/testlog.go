@@ -21,7 +21,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // Handler returns a log handler which logs to the unit test log of t.

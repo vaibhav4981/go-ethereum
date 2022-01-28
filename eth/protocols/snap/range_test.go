@@ -19,7 +19,7 @@ package snap
 import (
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common"
 )
 
 // Tests that given a starting hash and a density, the hash ranger can correctly

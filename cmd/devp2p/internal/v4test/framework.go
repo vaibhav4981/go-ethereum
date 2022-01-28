@@ -22,9 +22,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/p2p/discover/v4wire"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/p2p/discover/v4wire"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 )
 
 const waitTime = 300 * time.Millisecond

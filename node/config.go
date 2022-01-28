@@ -26,17 +26,17 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/accounts"
-	"github.com/TechPay-io/go-ethereum/accounts/external"
-	"github.com/TechPay-io/go-ethereum/accounts/keystore"
-	"github.com/TechPay-io/go-ethereum/accounts/scwallet"
-	"github.com/TechPay-io/go-ethereum/accounts/usbwallet"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/rpc"
+	"github.com/vaibhav4981/go-ethereum/accounts"
+	"github.com/vaibhav4981/go-ethereum/accounts/external"
+	"github.com/vaibhav4981/go-ethereum/accounts/keystore"
+	"github.com/vaibhav4981/go-ethereum/accounts/scwallet"
+	"github.com/vaibhav4981/go-ethereum/accounts/usbwallet"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 const (

@@ -17,7 +17,7 @@
 package vm
 
 import (
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 func minSwapStack(n int) int {

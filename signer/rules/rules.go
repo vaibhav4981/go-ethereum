@@ -22,12 +22,12 @@ import (
 	"os"
 	"strings"
 
-	"github.com/TechPay-io/go-ethereum/internal/ethapi"
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/signer/core"
-	"github.com/TechPay-io/go-ethereum/signer/rules/deps"
-	"github.com/TechPay-io/go-ethereum/signer/storage"
 	"github.com/dop251/goja"
+	"github.com/vaibhav4981/go-ethereum/internal/ethapi"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/signer/core"
+	"github.com/vaibhav4981/go-ethereum/signer/rules/deps"
+	"github.com/vaibhav4981/go-ethereum/signer/storage"
 )
 
 var (

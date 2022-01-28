@@ -19,11 +19,11 @@ package core
 import (
 	"sync/atomic"
 
-	"github.com/TechPay-io/go-ethereum/consensus"
-	"github.com/TechPay-io/go-ethereum/core/state"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/core/vm"
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/consensus"
+	"github.com/vaibhav4981/go-ethereum/core/state"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/core/vm"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 // statePrefetcher is a basic Prefetcher, which blindly executes a block on top

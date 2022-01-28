@@ -7,9 +7,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/common/hexutil"
-	"github.com/TechPay-io/go-ethereum/common/math"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common/hexutil"
+	"github.com/vaibhav4981/go-ethereum/common/math"
 )
 
 var _ = (*vmExecMarshaling)(nil)

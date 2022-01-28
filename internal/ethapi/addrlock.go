@@ -19,7 +19,7 @@ package ethapi
 import (
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common"
 )
 
 type AddrLocker struct {

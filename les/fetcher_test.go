@@ -21,11 +21,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/consensus/ethash"
-	"github.com/TechPay-io/go-ethereum/core"
-	"github.com/TechPay-io/go-ethereum/core/rawdb"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/consensus/ethash"
+	"github.com/vaibhav4981/go-ethereum/core"
+	"github.com/vaibhav4981/go-ethereum/core/rawdb"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 )
 
 // verifyImportEvent verifies that one single event arrive on an import channel.

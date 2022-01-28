@@ -1,4 +1,4 @@
-module github.com/TechPay-io/go-ethereum
+module github.com/vaibhav4981/go-ethereum
 
 go 1.15
 

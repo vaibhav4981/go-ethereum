@@ -21,9 +21,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/core/forkid"
-	"github.com/TechPay-io/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/core/forkid"
+	"github.com/vaibhav4981/go-ethereum/p2p"
 )
 
 const (

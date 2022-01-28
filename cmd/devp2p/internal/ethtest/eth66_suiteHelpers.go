@@ -21,12 +21,12 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/eth/protocols/eth"
-	"github.com/TechPay-io/go-ethereum/internal/utesting"
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/rlp"
 	"github.com/stretchr/testify/assert"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/eth/protocols/eth"
+	"github.com/vaibhav4981/go-ethereum/internal/utesting"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 )
 
 func (c *Conn) statusExchange66(t *utesting.T, chain *Chain) Message {

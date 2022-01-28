@@ -25,13 +25,13 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/TechPay-io/go-ethereum/accounts/abi"
-	"github.com/TechPay-io/go-ethereum/accounts/abi/bind"
-	"github.com/TechPay-io/go-ethereum/cmd/utils"
-	"github.com/TechPay-io/go-ethereum/common/compiler"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/internal/flags"
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi"
+	"github.com/vaibhav4981/go-ethereum/accounts/abi/bind"
+	"github.com/vaibhav4981/go-ethereum/cmd/utils"
+	"github.com/vaibhav4981/go-ethereum/common/compiler"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/internal/flags"
+	"github.com/vaibhav4981/go-ethereum/log"
 	"gopkg.in/urfave/cli.v1"
 )
 

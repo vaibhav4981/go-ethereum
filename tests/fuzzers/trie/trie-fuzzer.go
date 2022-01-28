@@ -21,9 +21,9 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/ethdb/memorydb"
-	"github.com/TechPay-io/go-ethereum/trie"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/ethdb/memorydb"
+	"github.com/vaibhav4981/go-ethereum/trie"
 )
 
 // randTest performs random trie operations.

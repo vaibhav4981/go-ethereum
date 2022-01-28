@@ -21,11 +21,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/consensus/ethash"
-	"github.com/TechPay-io/go-ethereum/core/rawdb"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/core/vm"
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/consensus/ethash"
+	"github.com/vaibhav4981/go-ethereum/core/rawdb"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/core/vm"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 // Tests that simple header verification works, for both good and bad blocks.

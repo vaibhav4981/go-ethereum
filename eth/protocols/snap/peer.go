@@ -17,9 +17,9 @@
 package snap
 
 import (
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/p2p"
 )
 
 // Peer is a collection of relevant information we have about a `snap` peer.

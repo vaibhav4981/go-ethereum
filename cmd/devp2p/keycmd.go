@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 	"gopkg.in/urfave/cli.v1"
 )
 

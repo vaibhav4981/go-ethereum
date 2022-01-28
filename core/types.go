@@ -17,9 +17,9 @@
 package core
 
 import (
-	"github.com/TechPay-io/go-ethereum/core/state"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/core/vm"
+	"github.com/vaibhav4981/go-ethereum/core/state"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/core/vm"
 )
 
 // Validator is an interface which defines the standard for block validation. It

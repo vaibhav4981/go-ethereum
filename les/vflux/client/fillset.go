@@ -19,8 +19,8 @@ package client
 import (
 	"sync"
 
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/nodestate"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/nodestate"
 )
 
 // FillSet tries to read nodes from an input iterator and add them to a node set by

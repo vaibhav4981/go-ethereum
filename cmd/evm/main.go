@@ -22,9 +22,9 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/TechPay-io/go-ethereum/cmd/evm/internal/t8ntool"
-	"github.com/TechPay-io/go-ethereum/cmd/utils"
-	"github.com/TechPay-io/go-ethereum/internal/flags"
+	"github.com/vaibhav4981/go-ethereum/cmd/evm/internal/t8ntool"
+	"github.com/vaibhav4981/go-ethereum/cmd/utils"
+	"github.com/vaibhav4981/go-ethereum/internal/flags"
 	"gopkg.in/urfave/cli.v1"
 )
 

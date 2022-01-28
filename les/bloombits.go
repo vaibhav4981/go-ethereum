@@ -19,8 +19,8 @@ package les
 import (
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common/bitutil"
-	"github.com/TechPay-io/go-ethereum/light"
+	"github.com/vaibhav4981/go-ethereum/common/bitutil"
+	"github.com/vaibhav4981/go-ethereum/light"
 )
 
 const (

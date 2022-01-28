@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/core/vm"
+	"github.com/vaibhav4981/go-ethereum/core/vm"
 )
 
 func TestVM(t *testing.T) {

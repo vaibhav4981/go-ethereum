@@ -24,12 +24,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/ethdb"
-	"github.com/TechPay-io/go-ethereum/ethdb/leveldb"
-	"github.com/TechPay-io/go-ethereum/ethdb/memorydb"
-	"github.com/TechPay-io/go-ethereum/log"
 	"github.com/olekukonko/tablewriter"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/ethdb"
+	"github.com/vaibhav4981/go-ethereum/ethdb/leveldb"
+	"github.com/vaibhav4981/go-ethereum/ethdb/memorydb"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // freezerdb is a database wrapper that enabled freezer data retrievals.

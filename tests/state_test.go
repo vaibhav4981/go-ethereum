@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/core/vm"
+	"github.com/vaibhav4981/go-ethereum/core/vm"
 )
 
 func TestState(t *testing.T) {

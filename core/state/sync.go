@@ -19,10 +19,10 @@ package state
 import (
 	"bytes"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/ethdb"
-	"github.com/TechPay-io/go-ethereum/rlp"
-	"github.com/TechPay-io/go-ethereum/trie"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/ethdb"
+	"github.com/vaibhav4981/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/trie"
 )
 
 // NewStateSync create a new state trie download scheduler.

@@ -22,13 +22,13 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/common/math"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/crypto/blake2b"
-	"github.com/TechPay-io/go-ethereum/crypto/bls12381"
-	"github.com/TechPay-io/go-ethereum/crypto/bn256"
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common/math"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/crypto/blake2b"
+	"github.com/vaibhav4981/go-ethereum/crypto/bls12381"
+	"github.com/vaibhav4981/go-ethereum/crypto/bn256"
+	"github.com/vaibhav4981/go-ethereum/params"
 
 	//lint:ignore SA1019 Needed for precompile
 	"golang.org/x/crypto/ripemd160"

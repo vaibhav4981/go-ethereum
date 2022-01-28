@@ -25,10 +25,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common/bitutil"
-	"github.com/TechPay-io/go-ethereum/metrics"
-	"github.com/TechPay-io/go-ethereum/p2p/rlpx"
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/common/bitutil"
+	"github.com/vaibhav4981/go-ethereum/metrics"
+	"github.com/vaibhav4981/go-ethereum/p2p/rlpx"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 )
 
 const (

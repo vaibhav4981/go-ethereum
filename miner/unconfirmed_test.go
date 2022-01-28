@@ -19,7 +19,7 @@ package miner
 import (
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/core/types"
 )
 
 // noopChainRetriever is an implementation of headerRetriever that always

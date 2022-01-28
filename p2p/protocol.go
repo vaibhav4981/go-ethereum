@@ -19,8 +19,8 @@ package p2p
 import (
 	"fmt"
 
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
-	"github.com/TechPay-io/go-ethereum/p2p/enr"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/p2p/enr"
 )
 
 // Protocol represents a P2P subprotocol implementation.

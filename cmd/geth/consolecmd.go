@@ -22,10 +22,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/TechPay-io/go-ethereum/cmd/utils"
-	"github.com/TechPay-io/go-ethereum/console"
-	"github.com/TechPay-io/go-ethereum/node"
-	"github.com/TechPay-io/go-ethereum/rpc"
+	"github.com/vaibhav4981/go-ethereum/cmd/utils"
+	"github.com/vaibhav4981/go-ethereum/console"
+	"github.com/vaibhav4981/go-ethereum/node"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 

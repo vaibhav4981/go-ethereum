@@ -19,9 +19,9 @@ package core
 import (
 	"context"
 
-	"github.com/TechPay-io/go-ethereum/internal/ethapi"
-	"github.com/TechPay-io/go-ethereum/log"
-	"github.com/TechPay-io/go-ethereum/rpc"
+	"github.com/vaibhav4981/go-ethereum/internal/ethapi"
+	"github.com/vaibhav4981/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 type StdIOUI struct {

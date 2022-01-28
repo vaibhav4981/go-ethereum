@@ -26,10 +26,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/core/types"
-	"github.com/TechPay-io/go-ethereum/internal/testlog"
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/internal/testlog"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // Tests whether remote HTTP servers are correctly notified of new work.

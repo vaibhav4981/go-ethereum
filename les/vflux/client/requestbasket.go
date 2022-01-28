@@ -19,8 +19,8 @@ package client
 import (
 	"io"
 
-	"github.com/TechPay-io/go-ethereum/les/utils"
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/les/utils"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 )
 
 const basketFactor = 1000000 // reference basket amount and value scale factor

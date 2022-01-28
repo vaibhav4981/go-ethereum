@@ -21,8 +21,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common/mclock"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/common/mclock"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 )
 
 // This is the number of consecutive leaf requests that may fail before

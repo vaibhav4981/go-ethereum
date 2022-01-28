@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // deployDashboard queries the user for various input on deploying a web-service

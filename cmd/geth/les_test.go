@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/rpc"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 type gethrpc struct {

@@ -20,8 +20,8 @@
 package metrics
 
 import (
-	"github.com/TechPay-io/go-ethereum/log"
 	"github.com/shirou/gopsutil/cpu"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // ReadCPUStats retrieves the current CPU stats.

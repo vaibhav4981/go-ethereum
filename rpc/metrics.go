@@ -19,7 +19,7 @@ package rpc
 import (
 	"fmt"
 
-	"github.com/TechPay-io/go-ethereum/metrics"
+	"github.com/vaibhav4981/go-ethereum/metrics"
 )
 
 var (

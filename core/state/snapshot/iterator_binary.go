@@ -19,7 +19,7 @@ package snapshot
 import (
 	"bytes"
 
-	"github.com/TechPay-io/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/common"
 )
 
 // binaryIterator is a simplistic iterator to step over the accounts or storage

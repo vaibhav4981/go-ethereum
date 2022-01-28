@@ -20,12 +20,12 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/TechPay-io/go-ethereum/cmd/devp2p/internal/ethtest"
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/internal/utesting"
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/p2p/rlpx"
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/cmd/devp2p/internal/ethtest"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/internal/utesting"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/p2p/rlpx"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 	"gopkg.in/urfave/cli.v1"
 )
 

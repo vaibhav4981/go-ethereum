@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/TechPay-io/go-ethereum/cmd/evm/internal/compiler"
+	"github.com/vaibhav4981/go-ethereum/cmd/evm/internal/compiler"
 
 	"gopkg.in/urfave/cli.v1"
 )

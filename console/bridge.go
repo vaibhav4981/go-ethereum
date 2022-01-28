@@ -24,13 +24,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/accounts/scwallet"
-	"github.com/TechPay-io/go-ethereum/accounts/usbwallet"
-	"github.com/TechPay-io/go-ethereum/common/hexutil"
-	"github.com/TechPay-io/go-ethereum/console/prompt"
-	"github.com/TechPay-io/go-ethereum/internal/jsre"
-	"github.com/TechPay-io/go-ethereum/rpc"
 	"github.com/dop251/goja"
+	"github.com/vaibhav4981/go-ethereum/accounts/scwallet"
+	"github.com/vaibhav4981/go-ethereum/accounts/usbwallet"
+	"github.com/vaibhav4981/go-ethereum/common/hexutil"
+	"github.com/vaibhav4981/go-ethereum/console/prompt"
+	"github.com/vaibhav4981/go-ethereum/internal/jsre"
+	"github.com/vaibhav4981/go-ethereum/rpc"
 )
 
 // bridge is a collection of JavaScript utility methods to bride the .js runtime

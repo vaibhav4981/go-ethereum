@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/TechPay-io/go-ethereum/params"
+	"github.com/vaibhav4981/go-ethereum/params"
 )
 
 // Forks table defines supported forks and their chain config.

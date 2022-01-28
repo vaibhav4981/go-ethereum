@@ -25,11 +25,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/accounts/keystore"
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/console/prompt"
-	"github.com/TechPay-io/go-ethereum/p2p/dnsdisc"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/accounts/keystore"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/console/prompt"
+	"github.com/vaibhav4981/go-ethereum/p2p/dnsdisc"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 	"gopkg.in/urfave/cli.v1"
 )
 

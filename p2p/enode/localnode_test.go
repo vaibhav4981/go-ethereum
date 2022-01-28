@@ -21,9 +21,9 @@ import (
 	"net"
 	"testing"
 
-	"github.com/TechPay-io/go-ethereum/crypto"
-	"github.com/TechPay-io/go-ethereum/p2p/enr"
 	"github.com/stretchr/testify/assert"
+	"github.com/vaibhav4981/go-ethereum/crypto"
+	"github.com/vaibhav4981/go-ethereum/p2p/enr"
 )
 
 func newLocalNodeForTesting() (*LocalNode, *DB) {

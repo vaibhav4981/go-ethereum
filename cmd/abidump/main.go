@@ -23,8 +23,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/TechPay-io/go-ethereum/signer/core"
-	"github.com/TechPay-io/go-ethereum/signer/fourbyte"
+	"github.com/vaibhav4981/go-ethereum/signer/core"
+	"github.com/vaibhav4981/go-ethereum/signer/fourbyte"
 )
 
 func init() {

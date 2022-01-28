@@ -21,8 +21,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/TechPay-io/go-ethereum/common/mclock"
-	"github.com/TechPay-io/go-ethereum/common/prque"
+	"github.com/vaibhav4981/go-ethereum/common/mclock"
+	"github.com/vaibhav4981/go-ethereum/common/prque"
 )
 
 // servingQueue allows running tasks in a limited number of threads and puts the

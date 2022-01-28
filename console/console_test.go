@@ -26,15 +26,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common"
-	"github.com/TechPay-io/go-ethereum/consensus/ethash"
-	"github.com/TechPay-io/go-ethereum/console/prompt"
-	"github.com/TechPay-io/go-ethereum/core"
-	"github.com/TechPay-io/go-ethereum/eth"
-	"github.com/TechPay-io/go-ethereum/eth/ethconfig"
-	"github.com/TechPay-io/go-ethereum/internal/jsre"
-	"github.com/TechPay-io/go-ethereum/miner"
-	"github.com/TechPay-io/go-ethereum/node"
+	"github.com/vaibhav4981/go-ethereum/common"
+	"github.com/vaibhav4981/go-ethereum/consensus/ethash"
+	"github.com/vaibhav4981/go-ethereum/console/prompt"
+	"github.com/vaibhav4981/go-ethereum/core"
+	"github.com/vaibhav4981/go-ethereum/eth"
+	"github.com/vaibhav4981/go-ethereum/eth/ethconfig"
+	"github.com/vaibhav4981/go-ethereum/internal/jsre"
+	"github.com/vaibhav4981/go-ethereum/miner"
+	"github.com/vaibhav4981/go-ethereum/node"
 )
 
 const (

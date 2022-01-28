@@ -19,7 +19,7 @@ package core
 import (
 	"errors"
 
-	"github.com/TechPay-io/go-ethereum/core/types"
+	"github.com/vaibhav4981/go-ethereum/core/types"
 )
 
 var (

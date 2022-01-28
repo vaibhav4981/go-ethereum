@@ -21,7 +21,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/TechPay-io/go-ethereum/rlp"
+	"github.com/vaibhav4981/go-ethereum/rlp"
 )
 
 var ErrNoReply = errors.New("no reply for given request")

@@ -25,8 +25,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/log"
 	natpmp "github.com/jackpal/go-nat-pmp"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 // An implementation of nat.Interface can map local ports to ports

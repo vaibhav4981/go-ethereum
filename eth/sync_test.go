@@ -21,10 +21,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/eth/downloader"
-	"github.com/TechPay-io/go-ethereum/eth/protocols/eth"
-	"github.com/TechPay-io/go-ethereum/p2p"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/eth/downloader"
+	"github.com/vaibhav4981/go-ethereum/eth/protocols/eth"
+	"github.com/vaibhav4981/go-ethereum/p2p"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 )
 
 // Tests that fast sync is disabled after a successful sync cycle.

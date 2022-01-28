@@ -22,9 +22,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/TechPay-io/go-ethereum/common/fdlimit"
-	"github.com/TechPay-io/go-ethereum/internal/flags"
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/common/fdlimit"
+	"github.com/vaibhav4981/go-ethereum/internal/flags"
+	"github.com/vaibhav4981/go-ethereum/log"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -23,11 +23,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TechPay-io/go-ethereum/common/mclock"
-	"github.com/TechPay-io/go-ethereum/ethdb/memorydb"
-	"github.com/TechPay-io/go-ethereum/p2p/enode"
+	"github.com/vaibhav4981/go-ethereum/common/mclock"
+	"github.com/vaibhav4981/go-ethereum/ethdb/memorydb"
+	"github.com/vaibhav4981/go-ethereum/p2p/enode"
 
-	"github.com/TechPay-io/go-ethereum/les/utils"
+	"github.com/vaibhav4981/go-ethereum/les/utils"
 )
 
 const (

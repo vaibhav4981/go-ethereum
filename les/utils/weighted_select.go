@@ -20,7 +20,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/TechPay-io/go-ethereum/log"
+	"github.com/vaibhav4981/go-ethereum/log"
 )
 
 type (

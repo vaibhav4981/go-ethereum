@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/TechPay-io/go-ethereum/event"
+	"github.com/vaibhav4981/go-ethereum/event"
 )
 
 func ExampleNewSubscription() {
